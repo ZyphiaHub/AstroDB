@@ -1,0 +1,2 @@
+# AstroDB
+vizsga feladat db
